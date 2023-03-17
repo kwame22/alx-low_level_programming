@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - prints the string in the function
+ * main - prints the string in the function
  * You are not allowed to use the function puts
  * Your program should compile without warning when using the -Wall gcc option
  * Description: using the main function
