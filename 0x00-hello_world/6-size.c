@@ -1,4 +1,12 @@
 #include <stdio.h>
+
+/**
+ * main - the program print the size of various types on the computer
+ * Description: Using the main function
+ * this program prints the sizes of various types on the computer
+ * Return: 0
+ * Warnings are allowed
+ */
 int main(void)
 {
 	char c;
