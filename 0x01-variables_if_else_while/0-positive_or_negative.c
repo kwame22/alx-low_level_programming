@@ -4,10 +4,11 @@
 
 /**
  * main - prints if the output is positive, negative or zero
- * 
+ *
  * Description: The function prints
- * positve when output is greater zero, negative when output
- * is less than zero, and zero when the output is zero.
+ * positive when output is greater than zero,
+ * negative when output is less than zero,
+ * zero, when the output is zero.
  * Return: 0
  */
 int main(void)
