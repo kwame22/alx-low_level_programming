@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints all lowercase alphabets
  *
@@ -17,5 +16,6 @@ int main(void)
 		putchar(c);
 		c++;
 	}
+	putchar('\n');
 	return (0);
 }
