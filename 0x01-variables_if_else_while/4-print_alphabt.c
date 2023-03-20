@@ -17,11 +17,11 @@ int main(void)
 	{
 		if (c == 'e' || c == 'q')
 		{
-			continue
+			continue;
 		}
 		putchar(c);	
-		putchar('\n');
 		c++;
 	}
+	putchar('\n');
 	return (0);
 }
