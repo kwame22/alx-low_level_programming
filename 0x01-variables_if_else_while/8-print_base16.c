@@ -17,7 +17,6 @@ int main(void)
 	while ( i < 10)
 	{
 		puchar(i);
-		putchar('\n');
 		i++;
 	}
 	C = 'A';
@@ -26,5 +25,6 @@ int main(void)
 		putchar(C);
 		C++;
 	}
+	putchar('\n');
 	return (0);
 }
