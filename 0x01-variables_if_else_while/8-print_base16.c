@@ -20,7 +20,7 @@ int main(void)
 		i++;
 	}
 	c = 'a';
-	while ( C <= 'f')
+	while ( c <= 'f')
 	{
 		putchar(c);
 		c++;
