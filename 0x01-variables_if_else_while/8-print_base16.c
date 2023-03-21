@@ -11,7 +11,7 @@
 int main(void)
 {
 	int i;
-	char C;
+	char c;
 
 	i = 0;
 	while ( i < 10)
@@ -19,11 +19,11 @@ int main(void)
 		putchar(i + '0');
 		i++;
 	}
-	C = 'A';
-	while ( C <= 'F')
+	c = 'a';
+	while ( C <= 'f')
 	{
-		putchar(C);
-		C++;
+		putchar(c);
+		c++;
 	}
 	putchar('\n');
 	return (0);
