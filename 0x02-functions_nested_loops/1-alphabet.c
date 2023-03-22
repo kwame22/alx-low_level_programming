@@ -1,14 +1,5 @@
 #include "main.h"
-/**
- * main - print alphabet in lowercase
- *
- * Return: o
- */
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
+
 /**
  * 
  * print_alphabet - function that prints alphabet
