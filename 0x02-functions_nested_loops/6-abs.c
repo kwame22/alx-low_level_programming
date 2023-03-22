@@ -14,13 +14,13 @@ int _abs(int i)
 	if (i < 0)
 	{
 		abs_value = i * -1;
-		_putchar(abs_value);
+		_putchar('0' + abs_value);
 		_putchar('\n');
 	}
 	else
 	{
 		abs_value = i;
-		_putchar(abs_value);
+		_putchar('0' + abs_value);
 		_putchar('\n');
 	}
 	return (0);
