@@ -15,13 +15,11 @@ int _abs(int i)
 	{
 		abs_value = i * -1;
 		_putchar('0' + abs_value);
-		_putchar('\n');
 	}
 	else
 	{
 		abs_value = i;
 		_putchar('0' + abs_value);
-		_putchar('\n');
 	}
 	return (0);
 }
